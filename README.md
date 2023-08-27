@@ -2,6 +2,6 @@
 
 ## Assignment 3
 
-![texture](/Assignment3/Code/build/output.png)
-![bump](/Assignment3/Code/build/bump.png)
-![displacement](/Assignment3/Code/build/displacement.png)
+![texture](/Assignment3/Code/result/phong_fragment.png)
+![bump](/Assignment3/Code/result/bump.png)
+![displacement](/Assignment3/Code/result/displacement.png)

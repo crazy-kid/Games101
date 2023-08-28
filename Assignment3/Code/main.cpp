@@ -268,29 +268,6 @@ Eigen::Vector3f displacement_fragment_shader(const fragment_shader_payload& payl
         }
     }
 
-    // for (auto& light : lights)
-    // {
-    //     // TODO: For each light source in the code, calculate what the *ambient*, *diffuse*, and *specular* 
-    //     // components are. Then, accumulate that result on the *result_color* object.
-    //     float rr = (light.position - p).squaredNorm();
-    //     Eigen::Vector3f diffsue(0, 0, 0);
-    //     Eigen::Vector3f specular(0, 0, 0);
-    //     Eigen::Vector3f ambient(0, 0, 0);
-    //     Eigen::Vector3f light_dir = (light.position - p).normalized();
-
-    //     for (size_t i = 0; i < 3; i++)
-    //     {
-    //         Eigen::Vector3f h = (view_dir + light_dir).normalized(); // half
-    //         float intensity = light.intensity[i] / rr;
-    //         diffsue[i] = kd[i] * intensity * std::max(0.0f, normal.dot(light_dir));
-    //         specular[i] = ks[i] * intensity * std::pow(std::max(0.0f, normal.dot(h)), 150);
-    //         ambient[i] = amb_light_intensity[i] * ka[i];
-    //     }
-    //     result_color += diffsue;
-    //     result_color += specular;
-    //     result_color += ambient;
-    // }
-
     return result_color * 255.f;
 
 }

@@ -22,4 +22,4 @@
 
 `Intersection`类的成员`distance`可以用时间`t`表示
 
-![BVH](/Assignment6/result/BVH.ppm)
+![BVH](/Assignment6/result/BVH.png)

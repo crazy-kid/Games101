@@ -1,3 +1,0 @@
-/home/rick/Documents/Computer Graphics/GAMES101/Homework/06/build/CMakeFiles/06.dir
-/home/rick/Documents/Computer Graphics/GAMES101/Homework/06/build/CMakeFiles/edit_cache.dir
-/home/rick/Documents/Computer Graphics/GAMES101/Homework/06/build/CMakeFiles/rebuild_cache.dir

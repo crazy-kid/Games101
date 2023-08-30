@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/06.dir/main.cpp.o CMakeFiles/06.dir/Vector.cpp.o CMakeFiles/06.dir/Scene.cpp.o CMakeFiles/06.dir/BVH.cpp.o CMakeFiles/06.dir/Renderer.cpp.o -o 06 

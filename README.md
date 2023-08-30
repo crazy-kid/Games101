@@ -17,3 +17,9 @@
 为什么我的地板有问题
 
 ![rayCasting](/Assignment5/result/ray%20casting.png)
+
+## Assignment 6
+
+`Intersection`类的成员`distance`可以用时间`t`表示
+
+![BVH](/Assignment6/result/BVH.ppm)

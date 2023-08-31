@@ -75,7 +75,7 @@ Vector3f Scene::shade(Intersection& inter_obj, Vector3f wo) const
     // TO DO Implement Path Tracing Algorithm here
     if (inter_obj.m->hasEmission())
         return inter_obj.m->m_emission;
-    static const float DSP = 1e-5;
+    static const float DSP = 1e-4;
 
     Vector3f L_dir;
 

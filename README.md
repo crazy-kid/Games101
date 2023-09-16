@@ -10,9 +10,17 @@
 
 ## Assignment 4
 
+### BezierCurve
+
 循环边界写错，导致段错误，debug半小时，引以为戒
 
 ![BezierCurve](/Assignment4/result/my_bezier_curve.png)
+
+### B-Spline
+
+由于没有采用头尾端点重复，所以画出的曲线没有和头尾端点连接
+
+![B-Spline](Assignment4/result/my_b_spline_curve.png)
 
 ## Assignment 5
 
